@@ -1,8 +1,8 @@
 # Recruitment Funnel Analytics Pipeline
 
+![Recruitment Funnel](<screenshots/recruitment funnel.png>)
 ## Project Links
 - **Notebook / Analysis:** [View Project](your-link-here)
-- **GitHub Repository:** [View Repository](your-link-here)
 
 ## Summary
 This project is an end-to-end recruitment analytics pipeline built using Azure Blob Storage, Azure Data Factory, Azure SQL Database, SQL, and Python.
