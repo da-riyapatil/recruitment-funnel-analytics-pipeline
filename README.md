@@ -2,7 +2,7 @@
 
 ![Recruitment Funnel](<screenshots/recruitment funnel.png>)
 ## Project Links
-- **Notebook / Analysis:** [View Project](https://recruitment-funnel-analysis.streamlit.app/)
+- **Notebook / Analysis:** [View EDA Notebook](https://recruitment-funnel-analysis.streamlit.app/)
 
 ## Summary
 This project is an end-to-end recruitment analytics pipeline built using Azure Blob Storage, Azure Data Factory, Azure SQL Database, SQL, and Python.
