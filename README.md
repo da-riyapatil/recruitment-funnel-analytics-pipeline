@@ -36,12 +36,19 @@ This project was built to clean and structure raw hiring data so it can be used 
 - Analyzed recruitment stages, hiring rates, source performance, and stage timelines
 
 ## Key Insights
-- Total Applicants: **5,134**
-- Total Hired Candidates: **382**
-- Overall Hiring Rate: **7.44%**
-- Funnel progression drops steadily from Applied to Hired
-- Job Fair, LinkedIn, and Indeed were among the strongest hiring sources
-- Average time increased as candidates moved deeper into the recruitment process
+- The funnel processed 5,134 applicants and resulted in 382 hires, for an overall hiring rate of 7.44%
+- The largest drop-off happened early, with about 64% moving from Applied to Screened
+- Conversion improved in later stages, showing stronger candidate quality among shortlisted applicants
+- Offer-to-hire conversion was about 97.45%, indicating very strong final-stage acceptance
+- Job Fair, LinkedIn, and Indeed were the strongest sources by final hires
+- Time-to-hire increased across stages, from about 4 days at screening to around 20 days by final hiring
+
+## Business Recommendations
+- Re-evaluate early-stage screening criteria to reduce unnecessary candidate drop-offs
+- Allocate more hiring budget and effort to high-performing sources like LinkedIn and Job Fairs
+- Monitor stage-wise conversion rates to identify weak transitions in the funnel
+- Reduce delays in later hiring stages by improving scheduling and approval processes
+- Track funnel performance regularly to improve hiring efficiency over time
 
 ## Repository Structure
 ```text
